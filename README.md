@@ -7,7 +7,7 @@ If you want to create a new experiment, you should create a new subfolder in thi
 Example projects that explain basic reVISit functionality are: 
 
  * [image-demo](image-demo) is the most basic study example that uses images for study stimuli. 
- * [html-input](html-demo) demonstrates how to use a HTML/JS stimulus. 
+   * [html-input](html-demo) demonstrates how to use a HTML/JS stimulus. 
  * Check out the [deployed study page] for a full list and descriptions of the projects. 
 
 Folders that don't contain an experiment are: 
